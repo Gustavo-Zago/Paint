@@ -50,11 +50,9 @@ Crie uma nova branch para sua funcionalidade ou correção de bug:
 git checkout -b minha-nova-funcionalidade
 Commit suas mudanças:
 
-Copiar código
 git commit -m 'Adiciona nova funcionalidade'
 Push para a branch:
 
-Copiar código
 git push origin minha-nova-funcionalidade
 Abra um Pull Request.
 Licença
