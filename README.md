@@ -73,4 +73,4 @@ Esse README fornece uma estrutura clara e direta para guiar os usuários na inst
 
 
 
-
+![Layout do programa](Downloads/layoutpaint.jpg)
