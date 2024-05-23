@@ -21,8 +21,6 @@ Esta aplicação Windows Forms permite ao usuário desenhar várias formas geom�
    git clone https://github.com/usuario/nome-do-repositorio.git
 Navegue até o diretório do projeto clonado:
 
-sh
-
 cd nome-do-repositorio
 Abra o arquivo do projeto no Visual Studio:
 
@@ -51,15 +49,15 @@ Escolha o nome do arquivo e o local onde deseja salvar a imagem.
 Contribuição
 Faça um fork do repositório.
 Crie uma nova branch para sua funcionalidade ou correção de bug:
-sh
+
 
 git checkout -b minha-nova-funcionalidade
 Commit suas mudanças:
-sh
+
 
 git commit -m 'Adiciona nova funcionalidade'
 Push para a branch:
-sh
+
 
 git push origin minha-nova-funcionalidade
 Abra um Pull Request.
