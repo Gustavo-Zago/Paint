@@ -18,7 +18,7 @@ Esta aplicação Windows Forms permite ao usuário desenhar várias formas geom�
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/usuario/nome-do-repositorio.git
+   git clone https://github.com/Gustavo-Zago/Paint
 Navegue até o diretório do projeto clonado:
 
 cd nome-do-repositorio
@@ -64,10 +64,10 @@ Abra um Pull Request.
 Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
 
-Contato
-Nome: Gustavo Zago de Lima
-Email: rrgusta@gmail.com
-GitHub: Gustavo-Zago
+## Contato
+- Nome: Gustavo Zago de Lima
+- Email: rrgusta@gmail.com
+- GitHub: Gustavo-Zago
 
 Esse README fornece uma estrutura clara e direta para guiar os usuários na instalação, uso e contribuição para o projeto. Ele deve ser facilmente compreensível e aplicável para quem está familiarizado com desenvolvimento de software em ambiente Windows Forms.
 
