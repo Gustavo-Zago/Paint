@@ -70,7 +70,3 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 - GitHub: Gustavo-Zago
 
 Esse README fornece uma estrutura clara e direta para guiar os usuários na instalação, uso e contribuição para o projeto. Ele deve ser facilmente compreensível e aplicável para quem está familiarizado com desenvolvimento de software em ambiente Windows Forms.
-
-
-
-![Layout do programa](Imagens/layoutpaint.jpg)
